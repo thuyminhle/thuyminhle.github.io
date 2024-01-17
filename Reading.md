@@ -1,5 +1,5 @@
 ---
-title: What I'm Reading
+title: Reading
 layout: page
 ---
 <!--ADD PHOTO OF BOOKS HERE? [Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
