@@ -38,7 +38,6 @@ disqus:
 twitter: ThuyMLe27
 <!-- instagram: myinstagram -->
 linkedin: mylinkedin
-#github: mygithub
 email: thuyminhle@gmail.com
 
 authors:
@@ -62,11 +61,12 @@ width: normal
 
 # if you don't need projects, comment the *projects* configs below
 projects: false
+reading: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: false
-Reading: true
+reading: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
