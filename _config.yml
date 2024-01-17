@@ -38,7 +38,7 @@ disqus:
 twitter: ThuyMLe27
 <!-- instagram: myinstagram -->
 linkedin: mylinkedin
-<!-- github: mygithub -->
+#github: mygithub
 email: thuyminhle@gmail.com
 
 authors:
@@ -66,8 +66,8 @@ width: normal
 # if you don't need "about" or "blog", comment them out below
 about: true
 <!-- blog: true -->
-Services: true
 What I'm Reading: true
+Services: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
