@@ -8,9 +8,9 @@ layout: page
 
 <p>More placeholder text.</p>
 
-<!-- <h2>Skills</h2> -->
+<h2>Skills</h2>
 
-<ul class="skill-list">
+<!-- <ul class="skill-list"> -->
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
@@ -24,7 +24,7 @@ layout: page
 	<li>MySQL - MongoDB</li>
 	<li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
-</ul>
+<!-- </ul> -->
 
 <!-- <h2>Projects</h2> -->
 
