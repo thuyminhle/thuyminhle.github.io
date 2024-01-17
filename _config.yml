@@ -65,8 +65,9 @@ width: normal
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-how I can help: true
-what I'm reading: true
+<!-- blog: true -->
+Services: true
+What I'm Reading: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
