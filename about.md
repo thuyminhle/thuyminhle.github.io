@@ -10,7 +10,7 @@ layout: page
 
 <p>More placeholder text.</p>
 
-<h2>Skills</h2>
+<!-- <h2>Skills</h2> -->
 
 <!-- <ul class="skill-list"> -->
 	<li>HTML - Jade - Haml - Erb</li>
@@ -30,8 +30,8 @@ layout: page
 
 <!-- <h2>Projects</h2> -->
 
-<ul>
+<!-- <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul> -->
