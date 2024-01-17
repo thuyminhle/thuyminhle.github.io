@@ -1,8 +1,8 @@
 ---
-title: About
+title: What I'm Reading
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+<!--ADD PHOTO OF BOOKS HERE? [Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
 
 <h2> Reads I return to:</h2>
 <ul>
