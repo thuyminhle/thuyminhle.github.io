@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Thuy M. Le
+bio: People & culture nerd supporting organizations to do their best work.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -21,7 +21,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+# your url: https://thuyminhle.github.io
 
 permalink: /:title/
 
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
+<!-- facebook: myfacebook -->
+twitter: ThuyMLe27
+<!-- instagram: myinstagram -->
 linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+<!-- github: mygithub -->
+email: thuyminhle@gmail.com
 
 authors:
   johndoe:
@@ -61,11 +61,12 @@ authors:
 width: normal
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+<!-- projects: true -->
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+how I can help: true
+what I'm reading: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
